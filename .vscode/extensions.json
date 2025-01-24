@@ -1,8 +1,10 @@
 {
     "recommendations": [
         "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
         "zhuangtongfa.material-theme",
+        "slevesque.shader",
         "wayou.vscode-todo-highlight",
-        "slevesque.shader"
+        "wakatime.vscode-wakatime"
     ]
 }
