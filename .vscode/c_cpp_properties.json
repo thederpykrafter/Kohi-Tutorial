@@ -3,7 +3,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/engine/src/**"
+                "${workspaceFolder}/engine/src/**",
+                "${workspaceFolder}/engine/src"
             ],
             "defines": [
                 "_DEBUG",
