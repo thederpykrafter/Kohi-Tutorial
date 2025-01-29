@@ -135,7 +135,7 @@ void *platform_allocate(u64 size, b8 alligned) {
 }
 
 void platform_free(void *block, b8 aligned) {
-    return free(block);
+    free(block);
 }
 
 void *platform_zero_memory(void *block, u64 size) {
