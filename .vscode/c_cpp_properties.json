@@ -21,6 +21,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/engine/src/**",
+                "${workspaceFolder}/engine/src/",
                 "C:/VulkanSDK/1.4.304.0/Include"
             ],
             "defines": [
