@@ -14,7 +14,7 @@ compilerFlags="-g -shared -fdeclspec -fPIC"
 # -fms-extensions
 # -Wall -Werror
 includeFlags="-Isrc"
-linkerFlags="-lvulkan -lxcb -lX11 -lxkbcommon"
+linkerFlags="-lvulkan -lxcb -lX11-xcb -lX11 -lxkbcommon"
 defines="-D_DEBUG -DKEXPORT"
 
 echo "Building $assembly..."
